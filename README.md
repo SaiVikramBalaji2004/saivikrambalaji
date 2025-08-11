@@ -1,22 +1,58 @@
-<h1 align="center">Hi 👋, I'm Sai Vikram Balaji B</h1>
-<h3 align="center">A passionate on Eletronics Engineer and intersted on front-end developer</h3>
+## Hi there! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saivikrambalaji2004&label=Profile%20views&color=0e75b6&style=flat" alt="saivikrambalaji2004" /> </p>
+I'm **Sai Vikram Balaji B**, a passionate developer from **Vellore**. I love exploring new technologies and working on innovative projects that solve real-world problems.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saivikrambalaji2004" alt="saivikrambalaji2004" /></a> </p>
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sai vikram balaji b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai vikram balaji b" height="30" width="40" /></a>
-<a href="https://fb.com/sai vikram balaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sai vikram balaji" height="30" width="40" /></a>
-<a href="https://instagram.com/sai_vikram_1110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_vikram_1110" height="30" width="40" /></a>
-</p>
+I'm a budding software developer with a keen interest in image processing and IoT projects. Currently, I am working on several personal projects and continually learning to enhance my skills. I am based in **Vellore** and excited to connect with like-minded professionals.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## Skills & Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saivikrambalaji2004&show_icons=true&locale=en&layout=compact" alt="saivikrambalaji2004" /></p>
+cpp,c,arduino,flask,docker,html,css,js,opencv,mysql,github,git,visualstudio,linux,react
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saivikrambalaji2004&show_icons=true&locale=en" alt="saivikrambalaji2004" /></p>
+## Top Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saivikrambalaji2004&" alt="saivikrambalaji2004" /></p>
+- [number_detection-using-ESP32-camera](https://github.com/SaiVikramBalaji2004/number_detection-using-ESP32-camera)
+  - Description: Image processing for number detection using an ESP32 camera.
+  - Stars: 0
+  - Language: C++  
+- [ultrasonic_sensor_radar](https://github.com/SaiVikramBalaji2004/ultrasonic_sensor_radar)
+  - Description: A radar system utilizing ultrasonic sensors.
+  - Stars: 0
+  - Language: C++  
+- [Image-processing-on-fire-detetion](https://github.com/SaiVikramBalaji2004/Image-processing-on-fire-detetion)
+  - Description: Image processing technique for fire detection.
+  - Stars: 0
+  - Language: C++  
+- [github_1](https://github.com/SaiVikramBalaji2004/github_1)
+  - Description: A personal repository for GitHub projects.
+  - Stars: 0
+  - Language: N/A  
+- [github_2](https://github.com/SaiVikramBalaji2004/github_2)
+  - Description: Another repository for various projects.
+  - Stars: 0
+  - Language: N/A
+
+## GitHub Stats
+
+🏆 **Public Repositories:** 6  
+👥 **Followers:** 1  
+👤 **Following:** 1  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiVikramBalaji2004&show_icons=true&theme=radical)
+
+## Recent Activity
+
+Here's a glimpse of my latest GitHub activities:  
+- Created repository [number_detection-using-ESP32-camera](https://github.com/SaiVikramBalaji2004/number_detection-using-ESP32-camera)  
+- Updated README in [ultrasonic_sensor_radar](https://github.com/SaiVikramBalaji2004/ultrasonic_sensor_radar)  
+- Starred repository [opencv](https://github.com/opencv/opencv)  
+- Opened issue in [Image-processing-on-fire-detetion](https://github.com/SaiVikramBalaji2004/Image-processing-on-fire-detetion)  
+- Pushed code in [github_1](https://github.com/SaiVikramBalaji2004/github_1)
+
+## Connect with Me
+
+{"facebook":"https://www.facebook.com/sai.vikram.3388/","instagram":"https://www.instagram.com/sai_vikram_1110/","linkedin":"https://www.linkedin.com/in/sai-vikram-balaji-b-437b7b257/"}
+
+## My Talks
+
+- [Talk Title](link-to-talk) - Brief description of the talk
