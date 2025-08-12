@@ -51,7 +51,9 @@ Here's a glimpse of my latest GitHub activities:
 
 ## Connect with Me
 
-{"facebook":"https://www.facebook.com/sai.vikram.3388/","instagram":"https://www.instagram.com/sai_vikram_1110/","linkedin":"https://www.linkedin.com/in/sai-vikram-balaji-b-437b7b257/"}
+"facebook":"https://www.facebook.com/sai.vikram.3388/",
+"instagram":"https://www.instagram.com/sai_vikram_1110/",
+"linkedin":"https://www.linkedin.com/in/sai-vikram-balaji-b-437b7b257/"
 
 ## My Talks
 
